@@ -1,0 +1,6 @@
+utworz aplikacje na konsole. lista zakopow zawiera dowolna ilosc zakupow zadane z konsoli na nastepujace towary:
+-nabial
+-warzywa
+-pieczywo
+
+konsola pobieta rowniez ceny tych towarow oraz wyznacza sume udanych pieniedzy. urzyj vectora z obiektem zakopow
